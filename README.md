@@ -38,3 +38,4 @@ It demonstrates skills in **data preparation, visualization, and insight generat
 1. Download the `.pbix` file from the `dashboard/` folder  
 2. Open it in **Power BI Desktop**  
 3. Use filters and slicers to explore the data  
+ 
